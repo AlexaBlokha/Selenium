@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffe5e352-a5f5-4ebb-a4d8-eba917349ef3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/EvenDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/EvenDigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/FactorPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FactorPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/FirstLastDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FirstLastDigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LastDigitChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LastDigitChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/NumberPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/NumberPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/NumberToWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/PerfectNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/SharedDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SharedDigit.java" afterDir="false" />
-    </list>
+    <list default="true" id="ffe5e352-a5f5-4ebb-a4d8-eba917349ef3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
