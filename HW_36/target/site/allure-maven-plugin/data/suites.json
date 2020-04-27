@@ -1,0 +1,29 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Surefire suite",
+    "children" : [ {
+      "name" : "Surefire test",
+      "children" : [ {
+        "name" : "core.PrimeNumberCheckerTest",
+        "children" : [ {
+          "name" : "test2",
+          "uid" : "2435d5d4ccef6c32",
+          "parentUid" : "473654fbc56b1d4f4f262d41f6be12bb",
+          "status" : "failed",
+          "time" : {
+            "start" : 1587950917154,
+            "stop" : 1587950917182,
+            "duration" : 28
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "473654fbc56b1d4f4f262d41f6be12bb"
+      } ],
+      "uid" : "1fcb2e6ec8e5b5e8a1f2a70b87c80b24"
+    } ],
+    "uid" : "940a09faf31371a51747026c9d178f0a"
+  } ]
+}
