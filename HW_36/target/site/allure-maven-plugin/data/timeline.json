@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Aleksandras-MBP.hsd1.ca.comcast.net",
+    "children" : [ {
+      "name" : "43430@Aleksandras-MBP.hsd1.ca.comcast.net.main(1)",
+      "children" : [ {
+        "name" : "test2",
+        "uid" : "2435d5d4ccef6c32",
+        "parentUid" : "4693795575ba7817bc9dc9e421118ab4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1587950917154,
+          "stop" : 1587950917182,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4693795575ba7817bc9dc9e421118ab4"
+    } ],
+    "uid" : "9f12675cb123c4f49cdf44968dfe070a"
+  } ]
+}

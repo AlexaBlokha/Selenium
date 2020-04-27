@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "core.PrimeNumberCheckerTest",
+    "children" : [ {
+      "name" : "test2",
+      "uid" : "2435d5d4ccef6c32",
+      "parentUid" : "f47d4ccb5c60ae629a5bb2af829e5dab",
+      "status" : "failed",
+      "time" : {
+        "start" : 1587950917154,
+        "stop" : 1587950917182,
+        "duration" : 28
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "core.PrimeNumberCheckerTest"
+  } ]
+}

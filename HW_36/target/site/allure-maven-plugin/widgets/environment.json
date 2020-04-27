@@ -1,0 +1,19 @@
+[ {
+  "values" : [ "QA" ],
+  "name" : "environment"
+}, {
+  "values" : [ "macOS 10.15" ],
+  "name" : "os"
+}, {
+  "values" : [ "Firefox 67.0" ],
+  "name" : "browser"
+}, {
+  "values" : [ "Alex Khatilov" ],
+  "name" : "qam"
+}, {
+  "values" : [ "1.47.2" ],
+  "name" : "version"
+}, {
+  "values" : [ "http://alex.academy" ],
+  "name" : "url"
+} ]

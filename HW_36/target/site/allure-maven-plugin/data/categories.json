@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Failed",
+    "children" : [ {
+      "name" : "\nExpected: \"abce\"\n     but: was \"abcd\"",
+      "children" : [ {
+        "name" : "test2",
+        "uid" : "2435d5d4ccef6c32",
+        "parentUid" : "66f1dd5370ee894125bbceea484199c2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1587950917154,
+          "stop" : 1587950917182,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "66f1dd5370ee894125bbceea484199c2"
+    } ],
+    "uid" : "98d5737edf2cab1a44c04d4a9aff4c44"
+  } ]
+}
