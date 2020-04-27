@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffe5e352-a5f5-4ebb-a4d8-eba917349ef3" name="Default Changelist" comment="" />
+    <list default="true" id="ffe5e352-a5f5-4ebb-a4d8-eba917349ef3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/EvenDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/EvenDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FactorPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FactorPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FirstLastDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FirstLastDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LastDigitChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LastDigitChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/NumberPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/NumberPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/NumberToWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SharedDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/SharedDigit.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +26,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1aQJwmccJMntI3wb0nLU7TGUnbQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -83,6 +102,10 @@
       <screen x="1440" y="-485" width="3440" height="1417" />
     </state>
     <state width="1528" height="388" key="GridCell.Tab.1.right/0.23.1440.811/1440.-485.3440.1417@1440.-485.3440.1417" timestamp="1586998868174" />
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1588013138204">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.811/1440.-485.3440.1417@1440.-485.3440.1417" timestamp="1588013138204" />
     <state x="3346" y="-126" key="new project wizard" timestamp="1586985487883">
       <screen x="1440" y="-485" width="3440" height="1417" />
     </state>

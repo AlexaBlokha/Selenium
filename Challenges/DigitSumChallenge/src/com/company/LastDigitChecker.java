@@ -4,7 +4,7 @@ public class LastDigitChecker {
 
     public static boolean hasSameLastDigit(int num1, int num2, int num3) {
 
-        if(!isValid(num1) || !isValid(num2) || !isValid(num3)){
+        if (!isValid(num1) || !isValid(num2) || !isValid(num3)) {
             return false;
         }
 
@@ -17,7 +17,6 @@ public class LastDigitChecker {
         } else {
             return false;
         }
-
     }
 
     public static boolean isValid(int number) {
@@ -26,5 +25,4 @@ public class LastDigitChecker {
         }
         return false;
     }
-
 }

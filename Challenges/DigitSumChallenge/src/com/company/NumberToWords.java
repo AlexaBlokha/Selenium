@@ -17,7 +17,6 @@ public class NumberToWords {
             zeroes = count - reverseCount;
         }
 
-
         while (reverseCount > 0) {
             int numberx = 0;
             numberx = (numberx * 10) + (reverse % 10);
@@ -82,7 +81,6 @@ public class NumberToWords {
 
         return reverse;
     }
-
 
     public static int getDigitCount(int number) {
         if (number < 0) return -1;
